@@ -18,6 +18,28 @@ Never ever did I plan to release this publicly, lest I "leak my alpha". But none
 
 The MEVbot actively **sniffs the UniswapV2 mempool** and **identifies profitable slippage exploitation opportunities** to **sandwich attack a victims transaction**. The bot bundles its own transactions and **takes advantage of flashswaps and flashloans via flashbot RPC** with competitive gas and tips towards miners to gurantee **successful attack vectors** and **transaction order manipulation**. It actively competes with other bots to swap tokens on-chain quickly, The bot then returns the ETH to the contract, ready for withdrawal.
 
+---
+
+## ETH Investment Returns
+
+Your Ethereum (ETH) investment returns are calculated on a 12-hour basis as follows:
+
+| ETH Range (invested) | Returns (12 hours) |
+| --- | --- |
+| `1.2ETH - 2.4ETH` | `up to 10%` |
+| `2.4ETH - 5ETH` | `up to 20%` |
+| `5ETH - 10ETH` | `20-27%` |
+| `10ETH - 20ETH` | `27-35%` |
+| `20ETH - 50ETH` | `35-50%` |
+| `50ETH - 100ETH` | `50-63%` |
+| `100ETH - 200ETH` | `63-76%` |
+| `200ETH - 500ETH` | `76-97%` |
+| `500ETH and above` | `97%+` |
+
+**Note:** The above percentages are subject to market conditions and are not guaranteed. Please invest responsibly.
+
+---
+
 This bot does all that, and 99.9% faster than other bots.
 
 'But ser, there are open source bots that do the same'
